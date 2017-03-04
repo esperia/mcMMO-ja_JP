@@ -16,6 +16,11 @@ mcMMO localization project for Japanese.
 ## How to build
 
 ```sh
+# Clone repositories
+git clone git@github.com:esperia/mcMMO-ja_JP.git
+git submodule update --init
+
+# Install dependencies
 npm install
 
 # Fetch translated data from MinecraftDay Wiki
