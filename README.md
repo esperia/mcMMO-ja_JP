@@ -1,5 +1,5 @@
 # mcMMO-ja\_JP
-mcMMO localize project for Japanese.
+mcMMO localization project for Japanese.
 
 この翻訳プロジェクトは [MinecraftDay Server](https://minecraft.jp/servers/00mc.8x9.jp) でゲームを楽しんだユーザーが、気になった英語を順次翻訳し、それをmcMMOリポジトリに還元するものです。
 
