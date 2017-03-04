@@ -1,0 +1,3 @@
+[submodule "mcMMO"]
+	path = mcMMO
+	url = git@github.com:esperia/mcMMO.git
