@@ -1,0 +1,27 @@
+{
+  "name": "mcmmo-ja_jp",
+  "version": "0.1.0",
+  "description": "mcMMO localization for Japanese",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=mcmmo-ja_jp:* node ./lib/commands.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esperia/mcMMO-ja_JP.git"
+  },
+  "author": "neske",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esperia/mcMMO-ja_JP/issues"
+  },
+  "homepage": "https://github.com/esperia/mcMMO-ja_JP#readme",
+  "dependencies": {
+    "debug": "^2.6.0",
+    "js-yaml": "^3.7.0",
+    "jsdom": "^9.9.1",
+    "mkdirp": "^0.5.1",
+    "request": "^2.79.0"
+  }
+}

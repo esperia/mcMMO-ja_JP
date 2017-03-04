@@ -1,0 +1,5 @@
+Thumbs.db
+.DS_Store
+/node_modules
+
+/src/locale_ja_JP.properties
